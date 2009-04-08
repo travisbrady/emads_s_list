@@ -5,3 +5,4 @@ emad's s list
 - Panther CDN Pricing
 - Qaddafi's Stylist
 - ESR
+- Adgregate/ShopAds Executive Team
