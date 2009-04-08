@@ -6,3 +6,5 @@ emad's s list
 - Qaddafi's Stylist
 - ESR
 - Adgregate/ShopAds Executive Team
+- HeyZap
+- Swoopo
