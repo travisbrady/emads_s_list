@@ -7,3 +7,4 @@ emad's s list
 - ESR
 - Adgregate/ShopAds Executive Team
 - Swoopo
+- Baby Books that try to sell you stuff
